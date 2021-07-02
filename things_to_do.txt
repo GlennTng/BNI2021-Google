@@ -1,0 +1,4 @@
+Clean up:
+  1. Writing functions for repetitive codes
+  2. List comprehension
+  3. Finding more efficient codes
